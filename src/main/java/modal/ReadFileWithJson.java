@@ -1,4 +1,4 @@
-package Modal;
+package modal;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
